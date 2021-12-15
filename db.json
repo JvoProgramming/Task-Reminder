@@ -10,13 +10,19 @@
       "id": 2,
       "text": "Office Hours",
       "day": "May 7th at 3:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 3,
       "text": "Dinner",
       "day": "May 13th at 6:30pm",
       "reminder": false
+    },
+    {
+      "text": "Lunch with friends",
+      "day": "May 16th at 12:30pm",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
